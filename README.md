@@ -1,1 +1,1 @@
-This repository contains the code associated with the manuscript 'Directionality of Transcriptional Regulatory Elements' (bioRxiv link to be provided).
+This repository contains the code associated with the manuscript "Directionality of Transcriptional Regulatory Elements" ([bioRxiv link to be provided](https://www.biorxiv.org/content/10.1101/2024.12.01.621925v1)).
